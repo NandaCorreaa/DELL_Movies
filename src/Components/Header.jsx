@@ -2,7 +2,6 @@ import Lupa from "../Imgs/lupa.svg"
 import LogoDell from "../Imgs/LogoDell.svg"
 import styled from "styled-components"
 
-
 const HeaderContainer = styled.header`
     width: 100%;
     height: 11vh;
